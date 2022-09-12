@@ -1,0 +1,15 @@
+C:\.NET\textdb\bin\Debug\net6.0\textdb.exe
+C:\.NET\textdb\bin\Debug\net6.0\textdb.deps.json
+C:\.NET\textdb\bin\Debug\net6.0\textdb.runtimeconfig.json
+C:\.NET\textdb\bin\Debug\net6.0\textdb.dll
+C:\.NET\textdb\bin\Debug\net6.0\textdb.pdb
+C:\.NET\textdb\obj\Debug\net6.0\textdb.csproj.AssemblyReference.cache
+C:\.NET\textdb\obj\Debug\net6.0\textdb.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\textdb\obj\Debug\net6.0\textdb.AssemblyInfoInputs.cache
+C:\.NET\textdb\obj\Debug\net6.0\textdb.AssemblyInfo.cs
+C:\.NET\textdb\obj\Debug\net6.0\textdb.csproj.CoreCompileInputs.cache
+C:\.NET\textdb\obj\Debug\net6.0\textdb.dll
+C:\.NET\textdb\obj\Debug\net6.0\refint\textdb.dll
+C:\.NET\textdb\obj\Debug\net6.0\textdb.pdb
+C:\.NET\textdb\obj\Debug\net6.0\textdb.genruntimeconfig.cache
+C:\.NET\textdb\obj\Debug\net6.0\ref\textdb.dll

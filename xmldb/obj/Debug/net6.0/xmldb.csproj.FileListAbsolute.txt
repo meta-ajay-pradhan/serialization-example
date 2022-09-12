@@ -1,0 +1,15 @@
+C:\.NET\xmldb\bin\Debug\net6.0\xmldb.exe
+C:\.NET\xmldb\bin\Debug\net6.0\xmldb.deps.json
+C:\.NET\xmldb\bin\Debug\net6.0\xmldb.runtimeconfig.json
+C:\.NET\xmldb\bin\Debug\net6.0\xmldb.dll
+C:\.NET\xmldb\bin\Debug\net6.0\xmldb.pdb
+C:\.NET\xmldb\obj\Debug\net6.0\xmldb.csproj.AssemblyReference.cache
+C:\.NET\xmldb\obj\Debug\net6.0\xmldb.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\xmldb\obj\Debug\net6.0\xmldb.AssemblyInfoInputs.cache
+C:\.NET\xmldb\obj\Debug\net6.0\xmldb.AssemblyInfo.cs
+C:\.NET\xmldb\obj\Debug\net6.0\xmldb.csproj.CoreCompileInputs.cache
+C:\.NET\xmldb\obj\Debug\net6.0\xmldb.dll
+C:\.NET\xmldb\obj\Debug\net6.0\refint\xmldb.dll
+C:\.NET\xmldb\obj\Debug\net6.0\xmldb.pdb
+C:\.NET\xmldb\obj\Debug\net6.0\xmldb.genruntimeconfig.cache
+C:\.NET\xmldb\obj\Debug\net6.0\ref\xmldb.dll

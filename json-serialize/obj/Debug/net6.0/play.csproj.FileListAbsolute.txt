@@ -1,0 +1,17 @@
+C:\.NET\play\bin\Debug\net6.0\play.exe
+C:\.NET\play\bin\Debug\net6.0\play.deps.json
+C:\.NET\play\bin\Debug\net6.0\play.runtimeconfig.json
+C:\.NET\play\bin\Debug\net6.0\play.dll
+C:\.NET\play\bin\Debug\net6.0\play.pdb
+C:\.NET\play\obj\Debug\net6.0\play.csproj.AssemblyReference.cache
+C:\.NET\play\obj\Debug\net6.0\play.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\play\obj\Debug\net6.0\play.AssemblyInfoInputs.cache
+C:\.NET\play\obj\Debug\net6.0\play.AssemblyInfo.cs
+C:\.NET\play\obj\Debug\net6.0\play.csproj.CoreCompileInputs.cache
+C:\.NET\play\obj\Debug\net6.0\play.dll
+C:\.NET\play\obj\Debug\net6.0\refint\play.dll
+C:\.NET\play\obj\Debug\net6.0\play.pdb
+C:\.NET\play\obj\Debug\net6.0\play.genruntimeconfig.cache
+C:\.NET\play\obj\Debug\net6.0\ref\play.dll
+C:\.NET\play\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\.NET\play\obj\Debug\net6.0\play.csproj.CopyComplete
